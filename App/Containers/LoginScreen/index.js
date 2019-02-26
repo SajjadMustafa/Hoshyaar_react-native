@@ -15,7 +15,7 @@ import styles from './styles'
 class LoginScreen extends Component {
   static propTypes = {
   }
-
+ 
   static navigationOptions = {
       header: null,
     }
